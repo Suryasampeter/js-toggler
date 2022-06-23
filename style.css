@@ -1,0 +1,28 @@
+h1{
+    font-size: 60px;
+    font-family: Arial;
+
+}
+
+body{
+    text-align: center;
+}
+
+button{
+    font-size: 40px;
+    margin: 20px,20px;
+    border-radius: 80px;
+    border: none;
+    cursor: pointer;
+
+}
+
+.dark{
+    background: black;
+    color: white;
+}
+
+.light{
+    background: white;
+    color:black ;
+}
